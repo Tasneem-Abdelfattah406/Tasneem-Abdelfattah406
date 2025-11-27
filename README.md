@@ -7,13 +7,12 @@
 
 ---
 
-### 🚀 About Me
+### ⚡ About Me
+**CS Student | Competitive Programmer | Frontend Enthusiast**
 
-- 🎓 I’m currently studying: Computer Science.
-- 🌱 I’m currently learning: Web Development (HTML, CSS, JavaScript).
-- 🧠 Background: I have a solid foundation in C++ and Python.
-- 🧩 Hobbies: Solving problems on Codeforces.
-
+- 🛠️ **Building:** Interactive web interfaces (HTML/CSS/JS).
+- 🧠 **Solving:** Algorithmic problems on Codeforces (C++/Python).
+- 🎯 **Looking for:** Opportunities to apply my coding skills in real-world projects.
 ---
 
 ### 🛠️ Languages & Tools
@@ -35,14 +34,6 @@
 ### 📬 Connect with me
 
 <p align="left">
-<a href="LINKEDIN_LINK_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Tasneem LinkedIn" height="30" width="40" /></a>
-<a href="CODEFORCES_LINK_HERE" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" height="30" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tasneem-Abdelfattah406&show_icons=true&theme=radical" alt="Tasneem's Github Stats" />
+<a href="https://www.linkedin.com/in/tasneem-abdeldaym-53a952324?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Tasneem LinkedIn" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Tasneem_Abdelfattah" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" height="30" /></a>
 </p>
