@@ -34,6 +34,6 @@
 ### 📬 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tasneem-abdeldaym-53a952324?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Tasneem LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tasneem-abdeldaym-53a952324" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tasneem LinkedIn" height="30" /></a>
 <a href="https://codeforces.com/profile/Tasneem_Abdelfattah" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" height="30" /></a>
 </p>
